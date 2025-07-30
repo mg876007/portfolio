@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
             className="text-5xl md:text-7xl font-bold text-gray-900 mb-6"
           >
             Hi, I'm{' '}
-            <span className="text-primary-600">John Doe</span>
+            <span className="text-primary-600">Mayank Gupta</span>
           </motion.h1>
 
           {/* Subtitle */}

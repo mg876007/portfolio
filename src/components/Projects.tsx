@@ -119,7 +119,7 @@ const Projects: React.FC = () => {
           className="text-center mt-12"
         >
           <motion.a
-            href="https://github.com/yourusername"
+            href="https://github.com/mg876007"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}

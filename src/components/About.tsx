@@ -93,7 +93,7 @@ const About: React.FC = () => {
               </h3>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  I'm a passionate full-stack developer with over 5 years of experience 
+                  I'm a passionate full-stack developer with over 4 years of experience 
                   creating digital solutions that make a difference. My journey in tech 
                   started with curiosity and has evolved into a deep love for clean code 
                   and user-centered design.
@@ -137,15 +137,15 @@ const About: React.FC = () => {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-6 pt-6">
               <div className="text-center">
-                <div className="text-3xl font-bold text-primary-600">50+</div>
+                <div className="text-3xl font-bold text-primary-600">10+</div>
                 <div className="text-gray-600">Projects Completed</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-primary-600">5+</div>
+                <div className="text-3xl font-bold text-primary-600">4+</div>
                 <div className="text-gray-600">Years Experience</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-primary-600">30+</div>
+                <div className="text-3xl font-bold text-primary-600">10+</div>
                 <div className="text-gray-600">Happy Clients</div>
               </div>
             </div>
